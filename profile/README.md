@@ -9,6 +9,9 @@ All the repositories relating to the CLOVER project
 
 </div>
 
+> **_Note:_**
+> See Main HCI Repo [Here](https://github.com/Civic-Interactions-Lab/clover)
+
 ## Keywords
 
 GitHub Copilot Clone, generative AI, AI coding assistants, Education Technology, VS Code Extension, early programmers
